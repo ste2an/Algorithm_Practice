@@ -8,4 +8,7 @@
 * [Letter by letter](https://github.com/ste2an/leetcodePractice/blob/main/src/SearchAndSort/LetterByLetter.java)
 
 ## [Tree]
-* [208. Implement Trie (Prefix Tree)](https://github.com/ste2an/leetcodePractice/blob/main/src/other/PrefixTree.java)
+* [Leetcode 208. Implement Trie (Prefix Tree)](https://github.com/ste2an/leetcodePractice/blob/main/src/other/PrefixTree.java)
+* [Leetcode 95. Unique Binary Search Trees II]()
+* [Leetcode 96. Unique Binary Search Trees]()
+* [Leetcode 108. Convert Sorted Array to Binary Search Tree](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/GenerateBST.java)
