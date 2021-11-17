@@ -55,7 +55,7 @@ public class TreeNode {
             for(TreeNode node : curLevel){
                 System.out.print(node.val + " ");
             }
-            System.out.println();
+            System.out.println( );
         }
 
     }

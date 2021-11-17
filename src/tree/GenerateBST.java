@@ -5,6 +5,7 @@ public class GenerateBST {
     public static void main(String[] args) {
         GenerateBST generateBST = new GenerateBST();
         TreeNode root = generateBST.generateBST(5, 10);
+
         TreeNode.printTree(root);
     }
 
