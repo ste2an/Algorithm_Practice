@@ -12,6 +12,10 @@
 * [Leetcode 95. Unique Binary Search Trees II]()
 * [Leetcode 96. Unique Binary Search Trees](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/UniqueBST.java)
 * [Leetcode 108. Convert Sorted Array to Binary Search Tree](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/GenerateBST.java)
+* [Leetcode 106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/BuildTreeII.java)
+* [Leetcode 105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/BuildTreeI.java)
+* [Leetcode 102. Binary Tree Level Order Traversal](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/LevelOrder.java)
+* [Leetcode 103. Binary Tree Zigzag Level Order Traversal](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/TreeZigzagTraversal.java)
 
 ## [String]
 * [Leetcode 68. Justify Text](https://github.com/ste2an/leetcodePractice/blob/main/src/String/JustifyText.java)
