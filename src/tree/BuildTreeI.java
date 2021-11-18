@@ -8,7 +8,6 @@ public class BuildTreeI {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         this.preorder = preorder;
         this.inorder = inorder;
-
         return helper(0, preorder.length - 1, 0, inorder.length - 1);
 
     }
