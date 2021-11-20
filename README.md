@@ -23,7 +23,7 @@
 * [Leetcode 222. Count Complete Tree Nodes](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/CountTreeNodes.java)
 * [Leetcode 112. Path Sum](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/PathSum.java)
 * [Leetcode 113. Path SumII](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/PathSumII.java)
-* [Leetcode 124. ](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/CountTreeNodes.java)
+* [Leetcode 124. Binary Tree Maximum Path Sum](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/PathSumMax.java)
 
 ## [String]
 * [Leetcode 68. Justify Text](https://github.com/ste2an/leetcodePractice/blob/main/src/String/JustifyText.java)
