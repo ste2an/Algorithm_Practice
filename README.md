@@ -21,6 +21,9 @@
 * [Leetcode 116. Populating Next Right Pointers in Each Node](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/AddNextPointer.java)
 * [Leetcode 117. Populating Next Right Pointers in Each NodeII](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/AddNextPointerII.java)
 * [Leetcode 222. Count Complete Tree Nodes](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/CountTreeNodes.java)
+* [Leetcode 112. Path Sum](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/PathSum.java)
+* [Leetcode 113. Path SumII](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/PathSumII.java)
+* [Leetcode 124. ](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/CountTreeNodes.java)
 
 ## [String]
 * [Leetcode 68. Justify Text](https://github.com/ste2an/leetcodePractice/blob/main/src/String/JustifyText.java)
