@@ -17,6 +17,10 @@
 * [Leetcode 102. Binary Tree Level Order Traversal](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/LevelOrder.java)
 * [Leetcode 103. Binary Tree Zigzag Level Order Traversal](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/TreeZigzagTraversal.java)
 * [Leetcode 107. Binary Tree Level Order Traversal II](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/LevelOrderII.java)
+* [Leetcode 114. Flatten Binary Tree to Linked List](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/FlattenTree.java)
+* [Leetcode 116. Populating Next Right Pointers in Each Node](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/AddNextPointer.java)
+* [Leetcode 117. Populating Next Right Pointers in Each NodeII](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/AddNextPointerII.java)
+* [Leetcode 222. Count Complete Tree Nodes](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/CountTreeNodes.java)
 
 ## [String]
 * [Leetcode 68. Justify Text](https://github.com/ste2an/leetcodePractice/blob/main/src/String/JustifyText.java)
