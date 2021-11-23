@@ -24,6 +24,9 @@
 * [Leetcode 112. Path Sum](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/PathSum.java)
 * [Leetcode 113. Path SumII](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/PathSumII.java)
 * [Leetcode 124. Binary Tree Maximum Path Sum](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/PathSumMax.java)
+* [Leetcode 226. Invert Binary Tree](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/InvertTree.java)
+* [Leetcode 230. Kth Smallest Element in a BST](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/SearchInBST.java)
+* [Leetcode 236. Lowest Common Ancestor of a Binary Tree](https://github.com/ste2an/leetcodePractice/blob/main/src/tree/CommonAncestor.java)
 
 ## [String]
 * [Leetcode 68. Justify Text](https://github.com/ste2an/leetcodePractice/blob/main/src/String/JustifyText.java)
